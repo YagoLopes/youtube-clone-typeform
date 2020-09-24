@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/youtube-clone-typeform-homepage/static/js/main.13698e17.chunk.js",
+    "main.js.map": "/youtube-clone-typeform-homepage/static/js/main.13698e17.chunk.js.map",
+    "runtime-main.js": "/youtube-clone-typeform-homepage/static/js/runtime-main.b63c5435.js",
+    "runtime-main.js.map": "/youtube-clone-typeform-homepage/static/js/runtime-main.b63c5435.js.map",
+    "static/js/2.c6aaa9cc.chunk.js": "/youtube-clone-typeform-homepage/static/js/2.c6aaa9cc.chunk.js",
+    "static/js/2.c6aaa9cc.chunk.js.map": "/youtube-clone-typeform-homepage/static/js/2.c6aaa9cc.chunk.js.map",
+    "index.html": "/youtube-clone-typeform-homepage/index.html",
+    "precache-manifest.61f64aa78464156403569a2fddb5fba6.js": "/youtube-clone-typeform-homepage/precache-manifest.61f64aa78464156403569a2fddb5fba6.js",
+    "service-worker.js": "/youtube-clone-typeform-homepage/service-worker.js",
+    "static/js/2.c6aaa9cc.chunk.js.LICENSE.txt": "/youtube-clone-typeform-homepage/static/js/2.c6aaa9cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b63c5435.js",
+    "static/js/2.c6aaa9cc.chunk.js",
+    "static/js/main.13698e17.chunk.js"
+  ]
+}
