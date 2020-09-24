@@ -1,8 +1,12 @@
-import React from "react";
+import React, { useEffect } from "react";
 import GlobalStyles from "./styles/global";
 import { Main, Section, Sticky } from "./styles";
 import FisrtAndSecond from "./components/FisrtAndSecond";
 function App() {
+  useEffect(() => {
+    window.scrollTo({ top: 0 });
+  }, []);
+
   return (
     <>
       <GlobalStyles />
